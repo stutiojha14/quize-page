@@ -1,0 +1,59 @@
+
+body{
+background-color:;
+}
+.row{
+
+}
+section{
+background-color:#F4F4F4;
+width:90%;
+margin-left:100px;
+height:400px;
+padding:10px;
+}
+#circle {
+	
+  height: 65px;
+  width: 65px;
+  background-color:#ccc;
+  padding:-10px;
+  border-radius: 65%;
+  border: 2px solid green;
+  
+}
+.col-md-1{
+margin:10px;
+}
+		#hexagon {
+  position: relative;
+  width: 70px; 
+  height: 45.21px;
+  background-color: #ccc;
+   padding:0px;
+  
+ 
+}
+
+#hexagon:before,
+#hexagon:after {
+  content: "";
+  position: absolute;
+  width: 0;
+  border-left: 35px solid transparent;
+  border-right: 35px solid transparent;
+}
+
+#hexagon:before {
+  bottom: 100%;
+  border-bottom: 20.60px solid #ccc;
+  
+}
+
+#hexagon:after {
+  top: 100%;
+  width: 0;
+  border-top: 20.60px solid #ccc;
+  
+}
+	

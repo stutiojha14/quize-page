@@ -1,0 +1,36 @@
+
+.frm{
+	height:1000px;
+	width:auto;
+	background-color:#ef760b;
+}
+.main{
+	width:auto;
+	height:auto;
+
+}
+.first{
+	margin-left:20px;
+	float: left;
+    width: 8%;
+    height:auto; 
+    background-color:#A9A9A9;
+    text-align:center;
+}
+.cntrol1
+{
+	margin:5px;
+	
+}
+
+.second
+{
+	margin-left:20px;
+	float:left;
+	width:80%;
+	height:auto;
+	background-color:#F8F8FF;
+	padding: 5px;
+}
+
+
